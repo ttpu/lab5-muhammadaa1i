@@ -1,0 +1,14 @@
+{
+    "tests": [
+      {
+        "name": "Ex5 Test",
+        "setup": "",
+        "run": "./ex5/test_ex5.sh",
+        "input": "",
+        "output": "",
+        "comparison": "included",
+        "timeout": 10,
+        "points": 100
+      }
+    ]
+}
